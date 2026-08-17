@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What is supervised learning?",
+        "expected": "answerable"
+    },
+    {
+        "question": "What is overfitting?",
+        "expected": "answerable"
+    },
+    {
+        "question": "What is a random forest?",
+        "expected": "answerable"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "expected": "unanswerable"
+    },
+    {
+        "question": "Who invented the Python programming language?",
+        "expected": "unanswerable"
+    }
+]

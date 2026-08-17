@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is supervised learning?",
+        "reference_answer": "Supervised learning is a machine learning task where a training set of examples with correct responses or targets is provided, allowing the algorithm to learn how to respond correctly to inputs."
+    },
+    {
+        "question": "What is overfitting?",
+        "reference_answer": "Overfitting occurs when a tree takes into account a lot of noise in the data and produces an inaccurate result."
+    },
+    {
+        "question": "What is a random forest?",
+        "reference_answer": "A random forest is an ensemble learning method that constructs multiple decision trees."
+    }
+]

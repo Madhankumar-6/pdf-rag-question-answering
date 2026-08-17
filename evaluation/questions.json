@@ -1,0 +1,24 @@
+[
+    {
+        "question": "What is supervised learning?",
+        "expected_keywords": [
+            "supervised learning",
+            "labeled data"
+        ]
+    },
+    {
+        "question": "What is overfitting?",
+        "expected_keywords": [
+            "overfitting",
+            "noise",
+            "inaccurate result"
+        ]
+    },
+    {
+        "question": "What is a random forest?",
+        "expected_keywords": [
+            "random forest",
+            "decision trees"
+        ]
+    }
+]
